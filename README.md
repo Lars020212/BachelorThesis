@@ -2,10 +2,10 @@
 This code was used in the test environment used for my bachelor thesis in computer science.
 The uploaded files are the ones i made changes to or are neccesary for the test environent to work.
 The test environment found in https://github.com/lurr3t/QUIC_compress_bachelor_thesis/tree/main/LeoEM
-was used as a base in this thesis.
+was used as a base for the test environment used in this thesis.
 
 To run the code:
-Follow the guides created by the respective authors of the environment, so follow LeoEM's guide to get
+Follow the guides created by the respective author regarding their code, so follow LeoEM's guide to get
 started with the network emulation, use lsquic's guide for the QUIC implementation and so on.
 Change ALL relevant file paths (this needs to be done in several files) to the ones used in your project, or this will not work.
 Important to add the Webster file or another file that you want to use to silesia folder, this file is
