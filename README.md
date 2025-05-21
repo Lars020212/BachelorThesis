@@ -17,4 +17,4 @@ When the environment is set up, to run experiments as was done in this thesis, s
 is the one that is in this repository, two xterm windows will open, first h2, and after a delay h1,
 when the h2 window opens, run the bash script node_commands this will run a QUIC server in h2 and a QUIC client in h1, if all
 is working correctly the different protocols used for this thesis will run for the specified file sizes and ranges, after the
-run is complete the mean transfer time is logged in excel file named output in the logs folder.
+run is complete the mean transfer time is logged in an excel file named output in the logs folder.
