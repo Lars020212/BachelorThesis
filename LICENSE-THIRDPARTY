@@ -1,1 +1,38 @@
+# Third-Party Licenses
 
+This project includes third-party libraries and code under the following licenses:
+
+---
+
+## lsquic
+**Copyright:** 2017–2023 LiteSpeed Technologies Inc  
+**License:** Apache License 2.0  
+<http://www.apache.org/licenses/LICENSE-2.0>
+
+---
+
+## Brotli
+**Copyright:** 2009–2016 The Brotli Authors  
+**License:** MIT License  
+<https://github.com/google/brotli/blob/master/LICENSE>
+
+---
+
+## Zstandard
+**Copyright:** Facebook, Inc. and its affiliates  
+**License:** BSD License + GPLv2 (dual license)  
+<https://github.com/facebook/zstd/blob/dev/LICENSE>
+
+---
+
+## LeoEM
+**Copyright:** 2024 lurr3t  
+**License:** BSD 3-Clause License  
+<https://github.com/lurr3t/leoem> (if applicable)
+
+---
+
+## Network model by Xuyang Cao, Xinyu Zhang
+**Copyright:** 2022  
+**License:** [Specify, if known]  
+[Add source link if applicable]
