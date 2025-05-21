@@ -6,7 +6,10 @@ was used as a base for the test environment used in this thesis.
 
 To run the code:
 Follow the guides created by the respective author regarding their code, so follow LeoEM's guide to get
-started with the network emulation, use lsquic's guide for the QUIC implementation and so on.
+started with the network emulation, use lsquic's guide for the QUIC implementation and so on. 
+
+Change the files in the respective libraries to the ones featured here, so for instance use the emulator.py
+that is found here instead of the one featured in LeoEM's emulation stage.
 
 Change ALL relevant file paths (this needs to be done in several files) to the ones used in your project, or this will not work.
 
