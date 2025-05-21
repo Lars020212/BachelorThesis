@@ -6,7 +6,7 @@ The uploaded files are the ones i made changes to or are neccesary for the test 
 The test environment found in [https://github.com/lurr3t/QUIC_compress_bachelor_thesis/tree/main/LeoEM](https://github.com/lurr3t/QUIC_compress_bachelor_thesis/tree/main)
 was used as a base for the test environment used in this thesis.
 
-## To setup the code
+## To setup the environment
 Follow the guides created by the respective author regarding their code, so follow LeoEM's guide to get
 started with the network emulation, use lsquic's guide for the QUIC implementation and so on. 
 
