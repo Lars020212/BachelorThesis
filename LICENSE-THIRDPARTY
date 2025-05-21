@@ -1,15 +1,10 @@
-# Third-Party Licenses
+Third-Party Licenses
 
 This project includes third-party libraries and code under the following licenses:
-
----
-
-## lsquic
-**Copyright:** 2017–2023 LiteSpeed Technologies Inc  
-**License:** MIT License 
+lsquic
+Copyright: 2017–2023 LiteSpeed Technologies Inc  
+License: MIT License 
 <https://github.com/litespeedtech/lsquic/blob/master/LICENSE>
-
----
 
 ## Brotli
 **Copyright:** 2009, 2010, 2013-2016 by the Brotli Authors  
