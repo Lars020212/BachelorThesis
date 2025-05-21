@@ -6,13 +6,13 @@ This project includes third-party libraries and code under the following license
 
 ## lsquic
 **Copyright:** 2017–2023 LiteSpeed Technologies Inc  
-**License:** Apache License 2.0  
-<http://www.apache.org/licenses/LICENSE-2.0>
+**License:** MIT License 
+<https://github.com/litespeedtech/lsquic/blob/master/LICENSE>
 
 ---
 
 ## Brotli
-**Copyright:** 2009–2016 The Brotli Authors  
+**Copyright:** 2009, 2010, 2013-2016 by the Brotli Authors  
 **License:** MIT License  
 <https://github.com/google/brotli/blob/master/LICENSE>
 
@@ -26,13 +26,12 @@ This project includes third-party libraries and code under the following license
 ---
 
 ## LeoEM
-**Copyright:** 2024 lurr3t  
-**License:** BSD 3-Clause License  
-<https://github.com/lurr3t/leoem> (if applicable)
+**Copyright:** 2022 Xuyang Cao, Xinyu Zhang
+**License:** MIT License   
+<https://github.com/XuyangCaoUCSD/LeoEM/blob/main/LICENSE>
 
 ---
-
-## Network model by Xuyang Cao, Xinyu Zhang
-**Copyright:** 2022  
-**License:** [Specify, if known]  
-[Add source link if applicable]
+## Base test environment
+**Copyright:** Copyright (c) 2024 lurr3t
+**License:** MIT License   
+<https://github.com/lurr3t/QUIC_compress_bachelor_thesis/blob/main/LICENSE>
